@@ -92,8 +92,4 @@ main/
     └── README.md
 ```
 
-## Notes
 
-- The curated final notebook is intentionally cleaner than a full working log.
-- The checkpoint notebooks are included to show how the project evolved over the semester.
-- Replace the video placeholder near the top of this README before publishing the repository.
