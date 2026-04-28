@@ -80,7 +80,7 @@ The `requirements.txt` in this repo was exported from Colab. If you rerun the no
 ## Repo Structure
 
 ```text
-epigenetic-clock-final/
+main/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
